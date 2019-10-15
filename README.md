@@ -1,6 +1,6 @@
 # cordova-nuxt
 
-> My first-rate Nuxt.js project
+> A basic boilerplate for creating apps with Cordova and NuxtJSt
 
 ## Build Setup
 
